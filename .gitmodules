@@ -5,3 +5,7 @@
 [submodule "RMediation"]
 	path = RMediation
 	url = https://github.com/data-wise/rmediation
+[submodule "medfit"]
+	path = medfit
+	url = https://github.com/data-wise/medfit
+	registered = false
