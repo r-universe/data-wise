@@ -1,11 +1,25 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/data-wise/data-wise.r-universe.dev
 	branch = HEAD
-[submodule "RMediation"]
-	path = RMediation
-	url = https://github.com/data-wise/rmediation
 [submodule "medfit"]
 	path = medfit
-	url = https://github.com/data-wise/medfit
-	registered = false
+	url = https://github.com/Data-Wise/medfit
+[submodule "mediationverse"]
+	path = mediationverse
+	url = https://github.com/Data-Wise/mediationverse
+[submodule "medrobust"]
+	path = medrobust
+	url = https://github.com/Data-Wise/medrobust
+[submodule "medsim"]
+	path = medsim
+	url = https://github.com/Data-Wise/medsim
+[submodule "missingmed"]
+	path = missingmed
+	url = https://github.com/Data-Wise/missingmed
+[submodule "probmed"]
+	path = probmed
+	url = https://github.com/Data-Wise/probmed
+[submodule "rmediation"]
+	path = rmediation
+	url = https://github.com/Data-Wise/rmediation
