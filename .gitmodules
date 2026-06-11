@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/data-wise/data-wise.r-universe.dev
 	branch = HEAD
+[submodule "RMediation"]
+	path = RMediation
+	url = https://github.com/Data-Wise/rmediation
 [submodule "medfit"]
 	path = medfit
 	url = https://github.com/Data-Wise/medfit
@@ -20,6 +23,3 @@
 [submodule "probmed"]
 	path = probmed
 	url = https://github.com/Data-Wise/probmed
-[submodule "rmediation"]
-	path = rmediation
-	url = https://github.com/Data-Wise/rmediation
