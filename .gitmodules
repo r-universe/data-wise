@@ -14,12 +14,14 @@
 [submodule "medrobust"]
 	path = medrobust
 	url = https://github.com/Data-Wise/medrobust
+	branch = dev
 [submodule "medsim"]
 	path = medsim
 	url = https://github.com/Data-Wise/medsim
 [submodule "missingmed"]
 	path = missingmed
 	url = https://github.com/Data-Wise/missingmed
+	branch = dev
 [submodule "probmed"]
 	path = probmed
 	url = https://github.com/Data-Wise/probmed
