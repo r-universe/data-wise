@@ -5,18 +5,18 @@
 [submodule "RMediation"]
 	path = RMediation
 	url = https://github.com/Data-Wise/rmediation
-	branch = dev
+	branch = main
 [submodule "medfit"]
 	path = medfit
 	url = https://github.com/Data-Wise/medfit
 [submodule "mediationverse"]
 	path = mediationverse
 	url = https://github.com/Data-Wise/mediationverse
-	branch = dev
+	branch = main
 [submodule "medrobust"]
 	path = medrobust
 	url = https://github.com/Data-Wise/medrobust
-	branch = dev
+	branch = main
 [submodule "medsim"]
 	path = medsim
 	url = https://github.com/Data-Wise/medsim
@@ -24,8 +24,8 @@
 [submodule "missingmed"]
 	path = missingmed
 	url = https://github.com/Data-Wise/missingmed
-	branch = dev
+	branch = main
 [submodule "probmed"]
 	path = probmed
 	url = https://github.com/Data-Wise/probmed
-	branch = dev
+	branch = main
